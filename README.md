@@ -31,7 +31,7 @@ This Python script scrapes data from two Twitter accounts, **@RemoteOK** and **@
 - Respect the privacy and usage guidelines of the scraped data.
 
 ### Author:
-[Your Name or Username]
+dheeraj_reddy
 
 ---
 
