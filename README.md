@@ -1,8 +1,5 @@
 # Twitter_job_updates
 
-Certainly! Here's a description you can add to your README file on GitHub:
-
----
 
 ## Twitter Scraping Script for Job Openings and Layoffs
 
